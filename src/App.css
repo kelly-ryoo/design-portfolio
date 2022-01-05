@@ -46,6 +46,18 @@ nav a:hover{
   padding:5vw;
 }
 
+.designart-intro{
+  margin-bottom: 5vh;
+}
+.designart-intro a{
+  color:#353535;
+  text-decoration: none;
+  font-style:italic;
+}
+.designart-intro a:hover{
+color:#787878;
+}
+
 .websites-wrapper{
   width:90vw;
   padding-right:5vw;

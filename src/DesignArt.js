@@ -8,6 +8,15 @@ const photos = [
     width: 4,
     height: 4
   }, {
+    src: "https://drive.google.com/uc?id=1MDBMZc7FpHWyc6PkUfGNIKKSB2Br55dv",
+    width: 4,
+    height: 4
+  }, {
+    src: "https://drive.google.com/uc?id=1LYb9n3PAAiH3nBiKua5HmXSqMMBweFMa",
+    width: 4,
+    height: 4
+  },
+  {
     src: "https://drive.google.com/uc?id=1rvwfbJjoy7pw-976GhqUHnyrbs_sGdOa",
     width: 3,
     height: 3
@@ -17,6 +26,10 @@ const photos = [
     height: 3
   }, {
     src: "https://drive.google.com/uc?id=1tGLviA1NZsWPfwFn97OV3ZIOCQDlFFF8",
+    width: 3,
+    height: 3
+  }, {
+    src: "https://drive.google.com/uc?id=1Cn6JuqO37Qro1IJe81gVUsWOQ9VX2bRL",
     width: 3,
     height: 3
   }, {
@@ -31,6 +44,10 @@ const photos = [
     src: "https://drive.google.com/uc?id=1_u9JoaLW5XlCA66CcST7Tfu6tAUsB_qN",
     width: 5,
     height: 5
+  }, {
+    src: "https://drive.google.com/uc?id=1-l6JpaoNUbwavM81l0LK2tSqfPAIeHob",
+    width: 3,
+    height: 3
   }, {
     src: "https://drive.google.com/uc?id=105HTi6SiZq0v7edfceT8POfDTFi1X1Yz",
     width: 3,
@@ -70,6 +87,9 @@ function DesignArt() {
       <div className="gallery-wrapper">
         <Gallery className="gallery" photos={photos} />
       </div>
+
+      <p className="designart-intro">Or <a href="https://drive.google.com/drive/folders/1oprNRBUVfFHPnjJnyRBBTV7Pp-jg28oN?usp=sharing" target="_blank">here</a> is the google drive version!</p>
+
     </div>
   );
 }
