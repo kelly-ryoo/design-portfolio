@@ -18,12 +18,12 @@ const photos = [
   },
   {
     src: "https://drive.google.com/uc?id=1rvwfbJjoy7pw-976GhqUHnyrbs_sGdOa",
-    width: 6,
-    height: 6
+    width: 5,
+    height: 5
   }, {
     src: "https://drive.google.com/uc?id=1MUIzznJuhzBuKyOOeMOgRRkU9Bn3yEHZ",
-    width: 6,
-    height: 6
+    width: 3,
+    height: 3
   }, {
     src: "https://drive.google.com/uc?id=1tGLviA1NZsWPfwFn97OV3ZIOCQDlFFF8",
     width: 6,
