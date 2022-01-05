@@ -18,28 +18,28 @@ const photos = [
   },
   {
     src: "https://drive.google.com/uc?id=1rvwfbJjoy7pw-976GhqUHnyrbs_sGdOa",
-    width: 3,
-    height: 3
+    width: 6,
+    height: 6
   }, {
     src: "https://drive.google.com/uc?id=1MUIzznJuhzBuKyOOeMOgRRkU9Bn3yEHZ",
-    width: 3,
-    height: 3
+    width: 6,
+    height: 6
   }, {
     src: "https://drive.google.com/uc?id=1tGLviA1NZsWPfwFn97OV3ZIOCQDlFFF8",
-    width: 3,
-    height: 3
+    width: 6,
+    height: 6
   }, {
     src: "https://drive.google.com/uc?id=1Cn6JuqO37Qro1IJe81gVUsWOQ9VX2bRL",
-    width: 3,
-    height: 3
+    width: 6,
+    height: 6
   }, {
     src: "https://drive.google.com/uc?id=1rqbICWdtyiJLQBo_wNjoXcEZ6XGUG-pI",
-    width: 3,
-    height: 3
+    width: 6,
+    height: 6
   }, {
     src: "https://drive.google.com/uc?id=15YiDd-D9VZCLnFw47k08IhzIYVs0mI3B",
-    width: 3,
-    height: 3
+    width: 6,
+    height: 6
   }, {
     src: "https://drive.google.com/uc?id=1_u9JoaLW5XlCA66CcST7Tfu6tAUsB_qN",
     width: 5,
