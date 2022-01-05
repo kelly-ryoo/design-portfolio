@@ -45,6 +45,18 @@ const photos = [
     width: 5,
     height: 5
   }, {
+    src: "https://drive.google.com/uc?id=1u1lmTXNgcFbMe6yypvDC9aFIFFIUCkLk",
+    width: 5,
+    height: 5
+  }, {
+    src: "https://drive.google.com/uc?id=1l-ApdBtPlZPQI-rM-ajFWvms3QSc6P-6",
+    width: 5,
+    height: 5
+  }, {
+    src: "https://drive.google.com/uc?id=1hdRODjxhXWdtUF5aTpKlgbYQJcEznVY9",
+    width: 5,
+    height: 5
+  }, {
     src: "https://drive.google.com/uc?id=1-l6JpaoNUbwavM81l0LK2tSqfPAIeHob",
     width: 3,
     height: 3
